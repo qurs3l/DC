@@ -1,0 +1,4 @@
+{
+    "pros.showInstallOnStartup": false,
+    "cmake.configureOnOpen": true
+}
